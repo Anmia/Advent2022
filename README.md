@@ -10,9 +10,9 @@
 
 <!--SOLUTIONS-->
 
-[![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%86/blue)](src/main/java/aoc/day01)
+[![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](src/main/java/aoc/day01)
 [![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%86/blue)](src/main/java/aoc/day02)
-[![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%86/blue)](src/main/java/aoc/day03)
+[![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/green)](src/main/java/aoc/day03)
 [![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)](src/main/java/aoc/day04)
 [![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)](src/main/java/aoc/day05)
 [![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)](src/main/java/aoc/day06)
